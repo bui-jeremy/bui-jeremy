@@ -3,7 +3,7 @@ I’m Jeremy Bui, a Computer Science master’s student at Boston University wit
 
 
 ## 🌐 Socials:
-[![Personal Portfolio](https://static.vecteezy.com/system/resources/previews/020/816/485/original/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg)](https://bui-jeremy.github.io/) 
+[![Personal Portfolio](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://bui-jeremy.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-bui/) 
 
 # 💻 Tech Stack:

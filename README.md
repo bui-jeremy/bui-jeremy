@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Jeremy Bui, a Computer Science master’s student at Boston University with a passion for software engineering and cybersecurity. For the past two years, I’ve been a year-round Software Developer Intern at SAS. I serve as President of the Cybersecurity Association, have contributed as a Software Engineer for Hack4Impact, and thrive on tackling rigorous coursework. Outside of academics, I enjoy discovering new dining spots and exploring diverse culinary experiences.
+I’m Jeremy Bui, a Computer Science master’s student at Boston University with a passion for software engineering and cybersecurity. I’ve been a year-round Software Developer Intern at SAS for the past two years. I serve as President of the Cybersecurity Association, have contributed as a Software Engineer for Hack4Impact, and thrive on tackling rigorous coursework. Outside academics, I enjoy discovering new dining spots and exploring the city!
 
 
 ## 🌐 Socials:
